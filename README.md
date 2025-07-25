@@ -1,0 +1,2 @@
+# digit classifier model
+Handwritten Digit Classifier using MLP & Gradio A lightweight AI-powered web application that classifies handwritten digits (0–9) using a Multi-layer Perceptron (MLP) neural network. Built with Python, trained on scikit-learn’s digit dataset, and deployed using Gradio for interactive user input through a simple drawing canvas.  Ideal for beginners exploring machine learning, GUI integration, and real-time digit recognition with high accuracy.
